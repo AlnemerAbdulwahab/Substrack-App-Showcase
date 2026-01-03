@@ -16,6 +16,11 @@
 
 ---
 
+### App Demo
+[SubsTrack Demo](https://alnemerabdulwahab.github.io/SubsTrack-College/demo.mp4/)
+
+---
+
 ### 💡 Key Features
 
 #### 1. Centralized Management Dashboard
