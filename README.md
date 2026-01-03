@@ -17,7 +17,7 @@
 ---
 
 ### App Demo
-[SubsTrack Demo](https://alnemerabdulwahab.github.io/SubsTrack-College/demo.mp4/)
+[SubsTrack Demo](https://alnemerabdulwahab.github.io/SubsTrack-College/demo.mp4)
 
 ---
 
